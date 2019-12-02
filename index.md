@@ -11,8 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# 那些著名的临终遗言
+
+## 再会，吾在青苔之下，静候大和岛的花开
+
+##随露珠凋零，随露珠消逝
 ### Header 3
 
 - Bulleted
@@ -21,7 +24,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` tet
 
 [Link](url) and ![Image](src)
 ```
